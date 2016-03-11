@@ -1,0 +1,26 @@
+OUTPUT FILE 2 
+
+HEAPSORT 
+This is the sorted outcome: 
+Deleted: 19
+Deleted: 23
+Deleted: 29
+Deleted: 32
+Deleted: 35
+Deleted: 91
+Deleted: 92
+Deleted: 93
+Deleted: 127
+Deleted: 213
+Deleted: 361
+Deleted: 361
+Deleted: 420
+Deleted: 538
+Deleted: 538
+Deleted: 637
+Deleted: 730
+Deleted: 818
+Deleted: 825
+Deleted: 834
+Deleted: 935
+Deleted: 945

@@ -1,0 +1,137 @@
+OUTPUT FILE 1 
+
+Inserting->  23:	 23 
+Inserting-> 825:	 23 825 
+Inserting-> 127:	 23 825 127 
+Inserting-> 538:	 23 538 127 825 
+Inserting->  29:	 23  29 127 825 538 
+Inserting->  91:	 23  29  91 825 538 127 
+Inserting->  92:	 23  29  91 825 538 127  92 
+Inserting->  93:	 23  29  91  93 538 127  92 825 
+Inserting-> 730:	 23  29  91  93 538 127  92 825 730 
+Inserting-> 361:	 23  29  91  93 361 127  92 825 730 538 
+Inserting-> 213:	 23  29  91  93 213 127  92 825 730 538 
+Inserting-> 945:	 23  29  91  93 213 127  92 825 730 538 
+Inserting-> 818:	 23  29  91  93 213 127  92 825 730 538 
+Inserting->  19:	 19  29  23  93 213 127  91 825 730 538 
+Inserting-> 420:	 19  29  23  93 213 127  91 825 730 538 
+Inserting-> 538:	 19  29  23  93 213 127  91 538 730 538 
+Inserting->  32:	 19  29  23  32 213 127  91  93 730 538 
+Inserting-> 935:	 19  29  23  32 213 127  91  93 730 538 
+Inserting-> 834:	 19  29  23  32 213 127  91  93 730 538 
+Inserting->  35:	 19  29  23  32  35 127  91  93 730 213 
+Inserting-> 361:	 19  29  23  32  35 127  91  93 730 213 
+Inserting-> 637:	 19  29  23  32  35 127  91  93 730 213 
+
+HEAP COMPLETE: 
+ 19  29  23  32  35 127  91  93 730 213 
+
+Deleting the root:  < 19 > 
+
+Updated Heap 
+ 23  29  91  32  35 127  92  93 730 213 
+
+Deleting the root:  < 23 > 
+
+Updated Heap 
+ 29  32  91  93  35 127  92 361 730 213 
+
+Deleting the root:  < 29 > 
+
+Updated Heap 
+ 32  35  91  93 213 127  92 361 730 538 
+
+Deleting the root:  < 32 > 
+
+Updated Heap 
+ 35  93  91 361 213 127  92 538 730 538 
+
+Deleting the root:  < 35 > 
+
+Updated Heap 
+ 91  93  92 361 213 127 420 538 730 538 
+
+Deleting the root:  < 91 > 
+
+Updated Heap 
+ 92  93 127 361 213 818 420 538 730 538 
+
+Deleting the root:  < 92 > 
+
+Updated Heap 
+ 93 213 127 361 361 818 420 538 730 538 
+
+Deleting the root:  < 93 > 
+
+Updated Heap 
+127 213 420 361 361 818 637 538 730 538 
+
+Deleting the root:  < 127 > 
+
+Updated Heap 
+213 361 420 361 538 818 637 538 730 935 
+
+Deleting the root:  < 213 > 
+
+Updated Heap 
+361 361 420 538 538 818 637 834 730 935 
+
+Deleting the root:  < 361 > 
+
+Updated Heap 
+361 538 420 538 825 818 637 834 730 935 
+
+Deleting the root:  < 361 > 
+
+Updated Heap 
+420 538 637 538 825 818 945 834 730 935 
+
+Deleting the root:  < 420 > 
+
+Updated Heap 
+538 538 637 730 825 818 945 834 935 
+
+Deleting the root:  < 538 > 
+
+Updated Heap 
+538 730 637 834 825 818 945 935 
+
+Deleting the root:  < 538 > 
+
+Updated Heap 
+637 730 818 834 825 935 945 
+
+Deleting the root:  < 637 > 
+
+Updated Heap 
+730 825 818 834 945 935 
+
+Deleting the root:  < 730 > 
+
+Updated Heap 
+818 825 935 834 945 
+
+Deleting the root:  < 818 > 
+
+Updated Heap 
+825 834 935 945 
+
+Deleting the root:  < 825 > 
+
+Updated Heap 
+834 945 935 
+
+Deleting the root:  < 834 > 
+
+Updated Heap 
+935 945 
+
+Deleting the root:  < 935 > 
+
+Updated Heap 
+945 
+
+Deleting the root:  < 945 > 
+
+Updated Heap 
+Heap is now Empty! 
